@@ -24,11 +24,11 @@
 </p>
  
 
-📱📞 ```F͎I͎N͎D͎ M͎E͎ H͎E͎R͎E͎ 👇👇🖥️💻```
+📱📞 ```༄✰F͎I͎N͎D͎ M͎E͎ H͎E͎R͎E͎༆✯ 👇👇🖥️💻```
 
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=254723245807&text=Hello+Junior"><img src="https://img.shields.io/badge/Contact J̥ͦUͦN̥ͦI̥ͦO̥ͦR̥ͦ E̥ͦZ̥ͦE̥ͦD̥ͦ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send?phone=254723245807&text=Hello+Junior"><img src="https://img.shields.io/badge/Contact J̥ͦUͦN̥ͦI̥ͦO̥ͦR̥ͦ༆✰ E̥ͦZ̥ͦE̥ͦD̥ͦ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/Baileys)***
